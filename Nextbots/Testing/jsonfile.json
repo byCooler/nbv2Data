@@ -1,0 +1,13 @@
+{
+   "name":"test",
+   "version":0.1,
+   "url":null,
+   "images":[
+      "https://github.com/notcooler/chadsoundboard/raw/main/Memes/Epic%20Sax%20Guy.png"
+   ],
+   "jumpscare":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Testing/scawyJumpscare.png",
+   "sounds":[
+      "https://github.com/notcooler/chadsoundboard/raw/main/Memes/Epic%20Sax%20Guy.mp3"
+   ],
+   "jumpscareAudio":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Testing/scawyJumpscare.mp3"
+}
