@@ -1,0 +1,13 @@
+{
+   "name":"Ambush",
+   "version":1,
+   "url":null,
+   "images":[
+      "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default.jpeg"
+   ],
+   "jumpscare":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default.jpeg",
+   "sounds":[
+      "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default_S.mp3"
+   ],
+   "jumpscareAudio":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Jumpscare_S.mp3"
+}

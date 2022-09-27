@@ -1,0 +1,13 @@
+{
+   "name":"Juggler",
+   "version":1,
+   "url":null,
+   "images":[
+      "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Juggler/Default.png"
+   ],
+   "jumpscare":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Juggler/Default.png",
+   "sounds":[
+      "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Juggler/Default_S.mp3"
+   ],
+   "jumpscareAudio":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Juggler/Default_S.mp3"
+}
