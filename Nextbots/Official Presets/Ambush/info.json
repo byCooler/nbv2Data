@@ -3,9 +3,9 @@
    "version":1,
    "url":null,
    "images":[
-      "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default.jpeg"
+      "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default.png"
    ],
-   "jumpscare":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default.jpeg",
+   "jumpscare":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default.png",
    "sounds":[
       "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Default_S.mp3"
    ],
